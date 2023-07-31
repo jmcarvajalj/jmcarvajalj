@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose Carvajal</h1>
+<h1 align="center">Hi 👋, I'm José Carvajal</h1>
 <h3 align="center">A passionate Full-Stack Developer from Colombia</h3>
 
 - 📫 How to reach me: **josemcj07@gmail.com**
